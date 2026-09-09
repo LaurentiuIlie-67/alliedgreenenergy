@@ -1,0 +1,196 @@
+CE AM SCHIMBAT PE SITE
+Allied Green Energy - Mai 2026
+________________________________
+
+
+PE TOATE PAGINILE
+-----------------
+
+- Am pus logo-ul real al firmei (primit de la client ca fisier SVG)
+- Am schimbat verdele si albastrul sa fie exact culorile din logo
+- Am marit bara de navigatie de sus ca sa arate mai bine
+- Am adaugat un buton verde de WhatsApp in coltul din dreapta-jos
+  (sursa: Brief de proiect.pdf)
+- Am adaugat titluri si descrieri pentru Google (SEO)
+  (sursa: Cuvinte cheie SEO.pdf)
+
+
+PAGINA PRINCIPALA
+-----------------
+
+- Am adaugat o diagrama circulara "Cercul Increderii Allied"
+  care arata cele 4 etape: Colectare > Analiza > Rafinare > Livrare
+
+
+PAGINA COLECTARE
+----------------
+
+- Am adaugat un ghid cu ce uleiuri acceptam si ce nu acceptam
+  (sursa: Da 8_ghid de colectare corecta.pdf)
+
+- Am refacut sectiunea cu tipurile de clienti:
+  Transport, Constructii, Agricultura, Industrie
+  (sursa: Cum asezam asta in pagina de colectare.pdf)
+
+- Am adaugat o sectiune cu toate cele 42 de judete acoperite
+  (sursa: Brief de proiect.pdf + Vreau sa le tratam pe fiecare separat.pdf)
+
+
+PAGINA LABORATOR
+----------------
+
+- Am adaugat un tabel demonstrativ cu Raportul Semafor
+  (Verde = bine, Galben = atentie, Rosu = pericol)
+  care arata cum arata un raport real de analiza ulei
+  (sursa: Pilonul 2.pdf + Raport de sanatate al motorului.pdf)
+
+- Am adaugat preturile echipamentelor de analiza pe 3 niveluri:
+  Nivelul 1: 1.000 - 1.300 EUR
+  Nivelul 2: 4.500 - 6.500 EUR
+  Nivelul 3: pana la 60.000 EUR
+  (sursa: Avem si preturi.pdf)
+
+
+PAGINA RAFINARE
+---------------
+
+- Am adaugat al doilea produs: Ulei de Baza Rerafinat, cu specificatiile lui
+  (sursa: Fara bitum te rog.pdf + Da 6.pdf)
+
+- Am adaugat cei 3 pasi de fabricare a Ecotherm Light 4:
+  Rafinare > Standardizare > Certificare
+  (sursa: Prin re-rafinare se creeaza un amestec de fractii.pdf)
+
+- Am adaugat confirmarea ca procesele respecta normele europene BAT
+  (sursa: Rerafinare termo-chimica conform BAT mediu.pdf)
+
+- Am adaugat sectiunea Garantia Anti-Frauda cu 4 puncte:
+  cuburi sigilate, proba martor 90 zile, buletin per lot, trasabilitate
+  (sursa: Diferentiatorul.pdf)
+
+
+PAGINA FLEET GOLD
+-----------------
+
+- Am adaugat 3 pachete cu preturi: Esential, Pro, Enterprise
+  (sursa: Programul Allied Fleet Gold.pdf + Centru de comanda client Gold.pdf)
+
+- Am adaugat sectiunea Pasaport Tehnic Digital
+  cu un exemplu vizual al cardului pe vehicul
+  (sursa: Pasaportul tehnic digital.pdf)
+
+- Am corectat o greseala de scriere din text
+
+- Am actualizat exemplul din cardul Pasaport Tehnic Digital
+  sa arate un arzator industrial (hala de productie),
+  nu un vehicul — consistent cu profilul clientilor Allied
+
+
+PE TOATE PAGINILE (sesiunea din Iunie 2026)
+-------------------------------------------
+
+- Am marit logo-ul din navbar de la height 62 la height 90
+  si am ajustat inaltimea barei de navigatie de la 80px la 108px
+  (sursa: cerere client)
+
+- Am definit variabila CSS --gray-950 (#0A1120) care lipsea
+  si facea ca textul alb sa devina invizibil pe mai multe pagini
+  (lucrari efectuate, DCF, echipamente termice)
+
+
+PAGINA PRINCIPALA
+-----------------
+
+- Am refacut hero-ul cu layout split: text in stanga, slider foto in dreapta
+  in locul slider-ului full-screen de fundal
+  (sursa: cerere client)
+
+- Am adaugat randul de statistici sub hero (48h, 4+ piloni, 100% conformitate, BAT)
+  (sursa: cerere client)
+
+
+PAGINA LABORATOR
+----------------
+
+- Am mutat slider-ul foto langa titlul principal (layout split stanga-dreapta)
+  si am scos sectiunea separata cu poza kit diagnoza
+  (sursa: cerere client)
+
+
+PAGINA COLECTARE
+----------------
+
+- Am adaugat slider foto in hero (layout split stanga-dreapta)
+  cu pozele vehiculului de colectare
+  (sursa: cerere client)
+
+
+PAGINA RAFINARE
+---------------
+
+- Am adaugat sectiunea Dynamic Cross Flow Filtration (DCF)
+  cu doua poze disc-filtru si specificatii tehnice
+  (sursa: mail client cu poze disc-filtru)
+
+- Am adaugat sectiunea Lucrari Efectuate cu layout split:
+  text in stanga, slider cu 6 poze in dreapta
+  (sursa: cerere client)
+
+- Am reordonat sectiunile intr-o ordine logica:
+  Hero > Specificatii > Foto rafinarie > Anatomie > DCF > Anti-Frauda > Lucrari
+  (sursa: cerere client)
+
+
+PAGINA FLEET GOLD
+-----------------
+
+- Am corectat exemplul din cardul Pasaport Tehnic Digital:
+  schimbat "Arzator Industrial" in "Motor Wola 6AL - Grup Electrogen Hala"
+  (sursa: mail client)
+
+- Am schimbat textul butoanelor de pe cardurile de pachete
+  din "Solicita Oferta" in "Solicita Kit-ul de Prelevare Ulei"
+  (sursa: PDF restructurare Fleet Gold)
+
+
+PAGINA NOUA: ECHIPAMENTE TERMICE (/echipamente-termice)
+--------------------------------------------------------
+
+- Am creat pagina noua cu programul Riello Service 0 lei:
+  conditii de intrare in program (echipament Riello + combustibil Allied),
+  beneficii (manopera 0 lei, diagnoza 0 lei, piese la pret de importator),
+  tipuri de echipamente acoperite (arzatoare, cazane, centrale termice)
+  (sursa: mail client + PDF restructurare)
+
+- Am adaugat pagina in bara de navigatie dupa Fleet Gold
+  (sursa: cerere client)
+
+- Am adaugat buton CTA portocaliu "Intra in Programul Riello Service 0 lei"
+  (sursa: PDF cu texte butoane)
+
+
+FORMULAR DE CONTACT
+-------------------
+
+- Am inlocuit departamentul "Service" cu "Echipamente Termice"
+  si am adaugat campuri specifice: Nume companie, Tip combustibil,
+  plus doua optiuni checkbox conform specificatiei din PDF:
+  "Detin deja echipament Riello..." si "Vreau o oferta integrata..."
+  (sursa: PDF cu texte butoane)
+
+- Am actualizat campurile pentru Fleet Gold:
+  Nume companie, Numar utilaje/camioane,
+  checkbox "Vreau o cotatie pentru analiza flotei mele"
+  (sursa: PDF cu texte butoane)
+
+- Am adaugat suport tehnic pentru campuri de tip checkbox in formular
+  (sursa: cerere client)
+
+
+________________________________
+CE MAI RAMANE DE FACUT
+
+- Calculator care estimeaza economia clientului
+- Pagina cu articole tehnice
+- Zona privata pentru clientii Gold (necesita programare suplimentara)
+- Imagini echipamente laborator (ICP-OES, FTIR, viscozimetru) - asteptam de la client
